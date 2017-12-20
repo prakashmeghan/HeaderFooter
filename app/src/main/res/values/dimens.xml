@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="nav_icon_w">24dp</dimen>
+    <dimen name="nav_icon_h">24dp</dimen>
+    <dimen name="nav_txt_size">14sp</dimen>
+    <dimen name="header_footer_padding">5dp</dimen>
+</resources>
